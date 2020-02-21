@@ -1,0 +1,36 @@
+.container{
+    font-family: Arial;
+}
+.title{
+    height: 30px;
+    padding : 10px;
+
+}
+table{
+    border-collapse: collapse;
+    width: 400px;
+    text-align: center;
+    font-size: 14px;
+    padding: 5px;
+}
+td {
+    border : 2px gray solid;
+}
+.english{
+    border-top: white;
+    border-right: white;
+    border-left: white;
+}
+.english{
+    border-top: white;
+    border-right: white;
+    border-left: white;
+}
+th{
+    border: 1px solid white;
+    color: white;
+}
+td{
+    padding: 5px;
+}
+

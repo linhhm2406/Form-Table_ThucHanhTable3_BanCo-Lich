@@ -1,0 +1,18 @@
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+table{
+    border-collapse: collapse;
+    border : 1px black solid;
+    text-align:center;
+}
+td{
+    height: 50px;
+}
+th{
+    height: 30px;
+    background-color: orange;
+}
